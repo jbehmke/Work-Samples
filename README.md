@@ -1,11 +1,4 @@
 
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Visit Denver Health - Make An Appointment Today</title>
-</head>
-
 <body>
 	
 <!-- Make an appointment - Desktop !-->
@@ -105,6 +98,4 @@
 </div>
 	
 </body>
-</html>
-Visit Denver Health - TEST.html
-Displaying Visit Denver Health - TEST.html.
+
